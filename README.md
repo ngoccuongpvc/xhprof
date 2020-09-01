@@ -167,3 +167,4 @@ you are running on Xen based virtualization or Docker on Mac, you could try to
 reduce the overhead by setting `tideways_xhprof.clock_use_rdtsc=1" in your
 PHP.ini.
 # xhprof
+# xhprof
